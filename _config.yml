@@ -1,7 +1,7 @@
 title: imagine # The title of the blog
 author: imagine # Your name 
 email: imsiwoo89@gmail.com # your email shown in the footer
-url: /imsiwoo.github.io # this is your site's root address.
+url:  # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   Amor fati.
 favicon: "./favicon.ico" # set the favicon of the site 
